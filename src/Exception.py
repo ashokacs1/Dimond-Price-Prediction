@@ -7,7 +7,7 @@ def error_meassage_detail(error,error_detail:sys):
 
     error_meassage = "Error occured in python script name [{0}] line number [{1}] error_message"
 
-class CustomeException(Exception):
+class CustomException(Exception):
 
     def __init(self,error_meassage,error_detail:sys):
         super().__init__(error_meassage)
