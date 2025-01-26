@@ -139,21 +139,5 @@ Access the application at `http://127.0.0.1:5000` in your web browser.
 - Deploy the application on a cloud platform (e.g., AWS, Azure, Heroku).
 - Extend the application to include insights and investment recommendations.
 
----
 
-## 📝 License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
----
-
-## 📞 Contact
-For any inquiries, please contact:
-- **Name**: Your Name
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
